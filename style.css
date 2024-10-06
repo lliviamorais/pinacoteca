@@ -9,7 +9,6 @@ body, html {
     width: 80%;
     height: 800px;
     display: flex;
-      /*espaço entre os itens*/
     justify-content: start;
 }
 .bloco1{
